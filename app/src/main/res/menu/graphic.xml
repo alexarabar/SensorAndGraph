@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/m_alerta"
+    android:title="Alerta"/>
+<item
+    android:id="@+id/m_options"
+    android:title="Opções"/>
+
+<item
+    android:id="@+id/m_sair"
+    android:title="Voltar"/>
+</menu>
